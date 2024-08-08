@@ -56,9 +56,7 @@ Welcome to my GitHub profile! I'm passionate about coding, building innovative p
   </a>
 </p>
 
-### 📈 GitHub Stats
 
-![Nischal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nt-16&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_rank=false&theme=radical)
 
 
 
