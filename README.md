@@ -17,11 +17,6 @@ Welcome to my GitHub profile! I'm passionate about coding, building innovative p
 ### 👯 Open to Collaborations
 - If you’re working on an interesting project or need a collaborator, feel free to reach out!
 
-### 💬 Ask Me About
-- Full-stack development
-- AI and machine learning
-- Web development best practices
-
 ### 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/nischal-thapa)
 
