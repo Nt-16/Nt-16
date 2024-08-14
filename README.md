@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm passionate about coding, building innovative p
 - [LinkedIn](https://www.linkedin.com/in/nischal-thapa)
 
 ### 🌐 My Website
-- [Nischal's Portfolio](https://nischalthapa.netlify.app/](https://nischalthapa.netlify.app/))
+- [Nischal's Portfolio](https://nischalthapa.netlify.app/)
 
 ### 🛠️ Technologies & Tools
 
