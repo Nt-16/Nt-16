@@ -6,10 +6,6 @@
 
 Welcome to my GitHub profile! I'm passionate about coding, building innovative projects, and continuously learning new technologies. Here’s a bit more about me and what I’m working on:
 
-### 🔭 Currently Working On
-- Building **[Key Crafter](https://key-crafter.netlify.app)**, a responsive password generator project.
-- Developing various full-stack Inventory tracker and Ai Customer Support App and exploring new tech stacks.
-
 ### 🌱 Learning
 - Diving deeper into developing 5+ Ai projects with my current role as a SWE Fellow at Headstarter AI.
 - Mastering **React.js**, **Next.js**, and **Firebase** through hands-on projects and workshops.
